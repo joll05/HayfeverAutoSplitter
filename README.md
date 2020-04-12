@@ -7,7 +7,7 @@ To use it, please download the 'HayfeverAutoSplitter.asl' file and add a 'Script
 Note: it will only work on version 1.0.2 of the game (latest version as I am writing this). I will get it to work on other versions in the future.
 
 ## Features
-+ Pauses timer during loading screens ('Game time' needs to be enabled for this to work)
++ Pauses timer during loading screens (Togglable, 'Game time' needs to be enabled for this to work)
 
 ### Future Additions
 + Automatic splitting

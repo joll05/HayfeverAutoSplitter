@@ -5,6 +5,11 @@ state("Hayfever", "1.0.2")
   bool Loading : "UnityPlayer.dll", 0x01519D50, 0x0, 0x1F8, 0x218, 0x2A0;
 }
 
+startup
+{
+  settings.Add("RemoveLoads", true, "Remove load times");
+}
+
 init
 {
   version = "1.0.2"; //this is temporary, I will implement a version check at some point.
