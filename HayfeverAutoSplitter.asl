@@ -63,6 +63,7 @@ split
 start
 {
   //Todo - Detect when the timer should start and set the correct starting day
+  vars.Progress = -1;
 }
 
 isLoading
