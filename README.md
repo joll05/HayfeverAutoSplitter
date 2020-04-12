@@ -24,18 +24,18 @@ If this is enabled the timer will be paused during loading screens. The time wit
 If this is enabled the levels will need to be played in order for it to split. For example, if you complete day 1, then day 2 it will split, but if you then jump straight to day 4 or back to day 1 again it won't split. If it is unchecked it will split whenever you touch Carlie on any level. Please note that you won't be able to select which levels to split on in that case.
 
 #### Split every day
-If this is enabled it will split on the end of every day. The tutorial does not count as a day (See [Split after tutorial](#split-after-tutorial)). 'Play levels in the right order' needs to be enabled for this setting to work.
+If this is enabled it will split on the end of every day. The tutorial does not count as a day (See [Split after tutorial](#split-after-tutorial)). [Play levels in the right order](#play-levels-in-the-right-order) needs to be enabled for this setting to work.
 
 #### Split every week
-If this is enabled it will split on the end of every week. If 'Split every day' is enabled this setting doesn't matter. 'Play levels in the right order' needs to be enabled for this setting to work.
+If this is enabled it will split on the end of every week. If [Split every day](#split-every-day) is enabled this setting doesn't matter. [Play levels in the right order](#play-levels-in-the-right-order) needs to be enabled for this setting to work.
 
 #### Split every month
-If this is enabled it will split on the end of every month. If 'Split every day' or 'Split every week' is enabled this setting doesn't matter. 'Play levels in the right order' needs to be enabled for this setting to work.
+If this is enabled it will split on the end of every month. If [Split every day](#split-every-day) or [Split every week](#split-every-week) is enabled this setting doesn't matter. [Play levels in the right order](#play-levels-in-the-right-order) needs to be enabled for this setting to work.
 
 #### Split after tutorial
 **This does not work yet!**
-If this is enabled it will split after the tutorial is completed. 'Play levels in the right order' needs to be enabled for this setting to work.
+If this is enabled it will split after the tutorial is completed. [Play levels in the right order](#play-levels-in-the-right-order) needs to be enabled for this setting to work.
 
 #### Split after Harvey
 **This does not work yet!**
-If this is enabled it will split after Harvey is completed. Please note that it will split on completing Hard Harvey no matter what. 'Play levels in the right order' needs to be enabled for this setting to work.
+If this is enabled it will split after Harvey is completed. Please note that it will split on completing Hard Harvey no matter what. [Play levels in the right order](#play-levels-in-the-right-order) needs to be enabled for this setting to work.
