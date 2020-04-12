@@ -16,4 +16,4 @@ init
   vars.Progress = 0;
 }
 
-isLoading { return current.Loading; }
+isLoading { return current.Loading && settings["RemoveLoads"]; }
