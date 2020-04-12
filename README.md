@@ -33,7 +33,7 @@ If this is checked it will split on the end of every week. If 'Split every day' 
 If this is checked it will split on the end of every month. If 'Split every day' or 'Split every week' is enabled this setting doesn't matter. 'Play levels in the right order' needs to be checked for this setting to work.
 
 #### Split after tutorial
-##### This does not work yet!
+**This does not work yet!**
 If this is checked it will split after the tutorial is completed. 'Play levels in the right order' needs to be checked for this setting to work.
 
 #### Split after Harvey
