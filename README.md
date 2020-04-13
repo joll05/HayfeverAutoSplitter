@@ -39,3 +39,6 @@ If this is enabled it will split after the tutorial is completed. [Play levels i
 #### Split after Harvey
 **This does not work yet!**
 If this is enabled it will split after Harvey is completed. Please note that it will split on completing Hard Harvey no matter what. [Play levels in the right order](#play-levels-in-the-right-order) needs to be enabled for this setting to work.
+
+## License
+This project uses the MIT license. That means that you are allowed to use the files within this folder for pretty much anything without any credit required as long as you include the same license. Read more about it [here](https://choosealicense.com/licenses/mit/).
