@@ -10,6 +10,8 @@ Note: it will only work on version 1.0.2 of the game (latest version as I am wri
 + Pauses timer during loading screens (Togglable)
 + Automatic splitting
     + Decide if you want to split every day, week or month
+    + Splitting after the tutorial or after harvey can be toggled
+    + Can split after every level exit (even if they're not in order)
 
 ### Future Additions
 + Automatic starting
