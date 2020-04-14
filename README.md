@@ -37,7 +37,6 @@ If this is enabled it will split on the end of every month. If [Split every day]
 If this is enabled it will split after the tutorial is completed. [Play levels in the right order](#play-levels-in-the-right-order) needs to be enabled for this setting to work.
 
 #### Split after Harvey
-**This does not work yet!**
 If this is enabled it will split after Harvey is completed. Please note that it will split on completing Hard Harvey no matter what. [Play levels in the right order](#play-levels-in-the-right-order) needs to be enabled for this setting to work.
 
 ## License

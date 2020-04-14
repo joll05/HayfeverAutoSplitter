@@ -51,6 +51,11 @@ split
           return (current.Level + 1) % 7 == 0;
         else if(settings["SplitMonthly"])
           return (current.Level + 1) % 28 == 0;
+        else if(settings["SplitAfterHarvey"] && current.Level == 111)
+          return true;
+        else if(current.Level == 139)
+          return true;
+        }
       }
     }
     else
