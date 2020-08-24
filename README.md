@@ -20,7 +20,7 @@ Note: it will only work on version 1.0.3 of the game (latest version as I am wri
 
 ## Settings
 #### Remove load times
-If this is enabled the timer will be paused during loading screens. The time with loads will still be saved in 'Real time', but the time without loads will be saved in 'Game time'.
+If this is enabled the timer will be paused during loading screens. The time with loads will still be saved in 'Real time', but the time without loads will be saved in 'Game time'. Note that 'Real Time' should be used when submitting runs.
 
 #### Play levels in the right order
 If this is enabled the levels will need to be played in order for it to split. For example, if you complete day 1, then day 2 it will split, but if you then jump straight to day 4 or back to day 1 again it won't split. If it is unchecked it will split whenever you touch Carlie on any level. Please note that you won't be able to select which levels to split on in that case.
