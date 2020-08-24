@@ -4,7 +4,7 @@ An autosplitter for the game [Hayfever](https://playhayfever.com/), made with au
 ## Usage
 To use it, please download the 'HayfeverAutoSplitter.asl' file and add a 'Scriptable Auto Splitter' component to your layout (located under the 'Control' tab). Then, in the settings for the scriptable auto splitter component specify the path of the 'HayfeverAutoSplitter.asl' file. Please note that when you run other games the autosplitter will not do anything.
 
-Note: it will only work on version 1.0.2 of the game (latest version as I am writing this). I will get it to work on other versions in the future.
+Note: it will only work on version 1.0.3 of the game (latest version as I am writing this). I will get it to work on other versions in the future.
 
 ## Features
 + Pauses timer during loading screens (Togglable)

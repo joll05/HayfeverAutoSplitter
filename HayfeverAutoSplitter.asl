@@ -1,7 +1,13 @@
 state("Hayfever", "1.0.2")
 {
-  uint Level : "GameAssembly.dll", 0x0408C858, 0xB8, 0x0, 0x20, 0x20, 0x10, 0x90, 0x6E8;
-  bool LevelFinished : "GameAssembly.dll", 0x04088988, 0x4A0, 0x98, 0x488, 0xB8, 0x78, 0xB8, 0x378;
+  //These pointers are for version 1.0.2, I will implement a version check at some point
+  /* uint Level : "GameAssembly.dll", 0x0408C858, 0xB8, 0x0, 0x20, 0x20, 0x10, 0x90, 0x6E8;
+  bool LevelFinished : "GameAssembly.dll", 0x04088988, 0x4A0, 0x98, 0x488, 0xB8, 0x78, 0xB8, 0x378; */
+
+  //version 1.0.3 pointers
+  uint Level : "GameAssembly.dll", 0x040734F8, 0x50, 0x28, 0x30, 0x150, 0xB0, 0x118, 0x58;
+  bool LevelFinished : "GameAssembly.dll", 0x04075708, 0x60, 0x40, 0x60, 0x50, 0x40, 0xB8, 0x8;
+
   bool Loading : "UnityPlayer.dll", 0x01519D50, 0x0, 0x1F8, 0x218, 0x2A0;
 }
 
@@ -20,7 +26,7 @@ startup
 
 init
 {
-  version = "1.0.2"; //this is temporary, I will implement a version check at some point.
+  version = "1.0.3"; //this is temporary, I will implement a version check at some point.
   vars.Progress = -1;
   vars.TutorialCompleted = false;
 }
@@ -55,7 +61,6 @@ split
           return true;
         else if(current.Level == 139)
           return true;
-        }
       }
     }
     else
