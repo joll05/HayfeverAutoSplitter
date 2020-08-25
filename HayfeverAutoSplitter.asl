@@ -14,7 +14,7 @@ state("Hayfever", "1.0.2")
 startup
 {
   settings.Add("RemoveLoads", true, "Remove load times");
-  settings.SetToolTip("RemoveLoads", "Removes load time from 'Game Time'. Note that 'Real Time' should still be used when submitting to the leaderboards.")
+  settings.SetToolTip("RemoveLoads", "Removes load time from 'Game Time'. Note that 'Real Time' should still be used when submitting to the leaderboards.");
 
   settings.Add("PlayInOrder", true, "Play levels in the right order");
   settings.SetToolTip("PlayInOrder", "Weather the levels have to be played in order or not. If this is unchecked, it will split on every level completion.");
