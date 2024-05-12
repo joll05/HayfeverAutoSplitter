@@ -1,5 +1,5 @@
 # HayfeverAutoSplitter
-An autosplitter for the game [Hayfever](https://playhayfever.com/), made with auto splitting language (asl) for [Livesplit](https://livesplit.org).
+An autosplitter for the game [Hayfever](https://store.steampowered.com/app/1159450/Hayfever/), made with auto splitting language (asl) for [Livesplit](https://livesplit.org).
 
 ## Usage
 To use it, please download the 'HayfeverAutoSplitter.asl' file and add a 'Scriptable Auto Splitter' component to your layout (located under the 'Control' tab). Then, in the settings for the scriptable auto splitter component specify the path of the 'HayfeverAutoSplitter.asl' file. Please note that when you run other games the autosplitter will not do anything.
